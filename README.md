@@ -17,7 +17,7 @@ Week Three Exercises of Phase 0
 
 ---
 
-#WIP
+# WIP
 
 ---
 
