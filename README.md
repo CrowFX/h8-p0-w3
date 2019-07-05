@@ -17,7 +17,7 @@ Week Three Exercises of Phase 0
 12. Exercise 12: Deret Geometri
 13. Exercise 13: Target Terdekat
 14. Exercise 14: Mengelompokkan Angka
-
+15. Exercise 15: Mengelompokkan Hewan
 
 ---
 
@@ -25,7 +25,7 @@ Week Three Exercises of Phase 0
 
 ---
 
-15. Exercise 15: Mengelompokkan Hewan
+DONE!
 
 ---
 
@@ -33,4 +33,4 @@ Week Three Exercises of Phase 0
 
 ---
 
-Done ! :)
+Done! :)
