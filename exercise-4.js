@@ -1,7 +1,7 @@
 var input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
 
 function dataHandling2(insert) {
-    insert.splice(1, 2, "Roman Alamsyah Elsharawy", "Provinsi Bandar Lampung");
+    insert.splice(1, 4, "Roman Alamsyah Elsharawy", "Provinsi Bandar Lampung", "21/05/1989", "Pria", "SMA International Metro");
     console.log(insert);
     var date = insert[3].split("/");
     switch (parseInt(date[1])) {
@@ -52,8 +52,7 @@ function dataHandling2(insert) {
     });
     console.log(_date);
     console.log(date2);
-    var nameLimit = insert[1].slice(0, 15);
-    console.log(nameLimit);
+    console.log(insert[1].slice(0, 15));
 }
 
 dataHandling2(input);
